@@ -68,12 +68,7 @@ Halooooo 👋
 
 # Contact Me :
 
-<p>
- </br>
-
-<div align="center">
 <img hight="500" width="300" alt="GIF" align="center" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif">
-
 
 ```js
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -81,17 +76,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <div align="center">
 <a href="https//wa.me/6289638023602">
  <img align="left" alt="Whatsapp" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
+
+<a href="https://www.instagram.com/romi_muh05/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" />
+
+<div align="center">
+<a href="https://chat.whatsapp.com/FHX57KmDNvnC7QKdEfUCX2">
+ <img align="left" alt="Whatsapp" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" />
