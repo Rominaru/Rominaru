@@ -11,17 +11,15 @@ Halooooo 👋
 
 
 # About ME 💬 :
-</br>
+
 ```js 
 - I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 ```
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
-
 ### - Learning :
 - ✨ Create Whatsapp Bot
 - ✨ Create Web
-
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
