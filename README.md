@@ -18,14 +18,14 @@ Halooooo 👋
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
 ### - Learning :
-- ✨ Create Whatsapp Bot
+- ✨ Create Whatsapp Bot\n
 - ✨ Create Web
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Gaming Addict\n
 - ✨ Watching Anime
-- ✨ Reading Manga
+- ✨ Reading Manga\n
 - ✨ manhwa
-- ✨ manhua
+- ✨ manhua\n
 - ✨ Badminton
 
 </br>
