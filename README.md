@@ -68,7 +68,7 @@
  </br>
 
 
-<img hight="500" width="300"align="right" alt="GIF" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif">
+<img hight="500" width="300" alt="GIF" align="center" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif">
 
 
 ```js
