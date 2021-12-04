@@ -18,14 +18,14 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Create Whatsapp Bot
+- ✨ Create Web
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Reading Manga / manhwa / manhua
+- ✨ Badminton
 
 </br>
 </br>
