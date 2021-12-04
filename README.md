@@ -74,12 +74,12 @@ Halooooo 👋
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 ```
 <div align="center">
+<div align="center">
 <a href="https//wa.me/6289638023602">
  <img align="left" alt="Whatsapp" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" />
 
 <a href="https://www.instagram.com/romi_muh05/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png" />
 
-<div align="center">
 <a href="https://chat.whatsapp.com/FHX57KmDNvnC7QKdEfUCX2">
  <img align="left" alt="Whatsapp" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" />
