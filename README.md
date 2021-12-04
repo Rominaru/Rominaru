@@ -24,7 +24,9 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Manga / manhwa / manhua
+- ✨ Reading Manga
+- ✨ manhwa
+- ✨ manhua
 - ✨ Badminton
 
 </br>
