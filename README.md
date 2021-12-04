@@ -1,3 +1,4 @@
+<div align="center">
 # Halo 👋
 
 <div align="center">
