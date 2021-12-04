@@ -15,7 +15,7 @@
 - I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 ```
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
 
 ### - Learning :
 - ✨ Create Whatsapp Bot
