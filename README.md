@@ -82,15 +82,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://chat.whatsapp.com/FHX57KmDNvnC7QKdEfUCX2"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rominaru&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rominaru Github Stats">
- 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
- 
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rominaru&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Rominaru/github-readme-stats)
+# thanks 
