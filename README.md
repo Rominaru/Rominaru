@@ -1,5 +1,5 @@
 <div align="center">
-# Halo 👋
+Halooooo 👋
 
 <div align="center">
 <img hight="250" width="500" alt="GIF" align="center" src="https://2.bp.blogspot.com/--42C5IpYVcw/VzrdZCSOdOI/AAAAAAAAAsU/yEfBZl7v0NonSdn-oQPmwU1D3EhjOw0aQCLcB/s1600/Himouto-Umaru-chan-animated-gif-%25E5%25B9%25B2%25E7%2589%25A9%25E5%25A6%25B9%25EF%25BC%2581%25E3%2581%2586%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593-18.gif">
@@ -75,7 +75,7 @@
 ```js
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 ```
-
+<div align="center">
 <a href="https//wa.me/6289638023602">
  <img align="left" alt="Whatsapp" width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" />
 </a>
