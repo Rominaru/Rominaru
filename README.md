@@ -1,5 +1,6 @@
 <div align="center">
 Halooooo 👋
+</div>
 
 <div align="center">
 <img hight="250" width="500" alt="GIF" align="center" src="https://2.bp.blogspot.com/--42C5IpYVcw/VzrdZCSOdOI/AAAAAAAAAsU/yEfBZl7v0NonSdn-oQPmwU1D3EhjOw0aQCLcB/s1600/Himouto-Umaru-chan-animated-gif-%25E5%25B9%25B2%25E7%2589%25A9%25E5%25A6%25B9%25EF%25BC%2581%25E3%2581%2586%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593-18.gif">
@@ -18,14 +19,14 @@ Halooooo 👋
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media2.giphy.com/media/yAbUh7yrMK9YA/giphy.gif">
 ### - Learning :
-- ✨ Create Whatsapp Bot\n
+- ✨ Create Whatsapp Bot
 - ✨ Create Web
 ### - Hobbies : 
-- ✨ Gaming Addict\n
+- ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Manga\n
+- ✨ Reading Manga
 - ✨ manhwa
-- ✨ manhua\n
+- ✨ manhua
 - ✨ Badminton
 
 </br>
