@@ -67,23 +67,18 @@
 ```js
  everything is still in the learning stage and my skills are still lacking
  ```
- <div align="center">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_button_icon_151951.png" alt="nodejs" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
+ ```javascript
+const Rominaru = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Dart],
+  tools: [React, , ReactNative, Node, Styled-Components, Flutter],
+  otherHobbiesAndStuff: {       
+                        Studying: "Always something new! now playing with Dart",
+                        Music: "Rnla X yaeow Try to be Better",
+                      },
+ challenge: "I try to at least learn something new every day"
+}
+```
 
 
 <!-- stat -->
@@ -91,6 +86,17 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rominaru&show_icons=true&theme=dark" />
+</p>
+<p align="center">
+  <a href="https://github.com/Rominaru"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rominaru&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Rominaru"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rominaru&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Rominaru"><img src="https://github-profile-trophy.vercel.app/?username=Rominaru&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
 
 <!-- end -->
