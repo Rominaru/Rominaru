@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Rominaru profile!
+  Welcome to Romi Muharom Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -36,10 +36,10 @@
 # About ME 💬 :
 
 ```js 
-- I'm 17 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
+- I'm 17 years old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 ```
 
-<img hight="600" width="300" alt="GIF" align="right" src="https://i.pinimg.com/564x/2d/04/ab/2d04aba8d01062d36b67f5ce3c7dbd92.jpg">
+<img hight="600" width="300" alt="GIF" align="right" src="https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg">
 
 ### - Learning :
 - ✨ Create Whatsapp Bot
@@ -49,8 +49,8 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Manga
-- ✨ manhwa
-- ✨ manhua
+- ✨ Football
+- ✨ Volly
 - ✨ Badminton
 
 </br>
@@ -102,7 +102,7 @@ const Rominaru = {
 <!-- end -->
 # Contact Me :
 <p align="center">
-<img hight="500" width="300" alt="GIF" align="center" src="https://i.pinimg.com/736x/75/21/ca/7521ca868ba7b0520fb2ef1ca79f0a6a.jpg">
+<img hight="500" width="300" alt="GIF" align="center" src="https://i.pinimg.com/564x/f8/a6/d4/f8a6d49c2cf7dab5d10d8b788f7f1eb8.jpg">
 </p>
 
 ```js
